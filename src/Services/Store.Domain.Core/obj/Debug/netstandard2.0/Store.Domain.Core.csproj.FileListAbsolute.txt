@@ -1,9 +1,0 @@
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/bin/Debug/netstandard2.0/Store.Domain.Core.deps.json
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/bin/Debug/netstandard2.0/Store.Domain.Core.dll
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/bin/Debug/netstandard2.0/Store.Domain.Core.pdb
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/obj/Debug/netstandard2.0/Store.Domain.Core.csprojAssemblyReference.cache
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/obj/Debug/netstandard2.0/Store.Domain.Core.AssemblyInfoInputs.cache
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/obj/Debug/netstandard2.0/Store.Domain.Core.AssemblyInfo.cs
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/obj/Debug/netstandard2.0/Store.Domain.Core.csproj.CoreCompileInputs.cache
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/obj/Debug/netstandard2.0/Store.Domain.Core.dll
-/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/obj/Debug/netstandard2.0/Store.Domain.Core.pdb
