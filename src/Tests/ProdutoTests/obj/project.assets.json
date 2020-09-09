@@ -902,27 +902,27 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "Cadastro/1.0.0": {
+      "Store.Domain.Cadastro/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "DomainCore": "1.0.0"
+          "Store.Domain.Core": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Cadastro.dll": {}
+          "bin/placeholder/Store.Domain.Cadastro.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Cadastro.dll": {}
+          "bin/placeholder/Store.Domain.Cadastro.dll": {}
         }
       },
-      "DomainCore/1.0.0": {
+      "Store.Domain.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/DomainCore.dll": {}
+          "bin/placeholder/Store.Domain.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DomainCore.dll": {}
+          "bin/placeholder/Store.Domain.Core.dll": {}
         }
       }
     }
@@ -3518,22 +3518,22 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Cadastro/1.0.0": {
+    "Store.Domain.Cadastro/1.0.0": {
       "type": "project",
-      "path": "../../Services/Cadastro/Cadastro.csproj",
-      "msbuildProject": "../../Services/Cadastro/Cadastro.csproj"
+      "path": "../../Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj",
+      "msbuildProject": "../../Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj"
     },
-    "DomainCore/1.0.0": {
+    "Store.Domain.Core/1.0.0": {
       "type": "project",
-      "path": "../../DomainCore/DomainCore.csproj",
-      "msbuildProject": "../../DomainCore/DomainCore.csproj"
+      "path": "../../Services/Store.Domain.Core/Store.Domain.Core.csproj",
+      "msbuildProject": "../../Services/Store.Domain.Core/Store.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Cadastro >= 1.0.0",
-      "DomainCore >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "Store.Domain.Cadastro >= 1.0.0",
+      "Store.Domain.Core >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -3563,11 +3563,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj": {
-              "projectPath": "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj"
+            "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj": {
+              "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj"
             },
-            "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/Cadastro.csproj": {
-              "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/Cadastro.csproj"
+            "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj": {
+              "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj"
             }
           }
         }

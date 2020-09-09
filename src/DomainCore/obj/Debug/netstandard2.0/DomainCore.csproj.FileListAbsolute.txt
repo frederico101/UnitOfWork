@@ -1,9 +1,0 @@
-/home/developer/Documents/VSCODE/Store/src/DomainCore/obj/Debug/netstandard2.0/DomainCore.csprojAssemblyReference.cache
-/home/developer/Documents/VSCODE/Store/src/DomainCore/obj/Debug/netstandard2.0/DomainCore.AssemblyInfoInputs.cache
-/home/developer/Documents/VSCODE/Store/src/DomainCore/obj/Debug/netstandard2.0/DomainCore.AssemblyInfo.cs
-/home/developer/Documents/VSCODE/Store/src/DomainCore/obj/Debug/netstandard2.0/DomainCore.csproj.CoreCompileInputs.cache
-/home/developer/Documents/VSCODE/Store/src/DomainCore/bin/Debug/netstandard2.0/DomainCore.deps.json
-/home/developer/Documents/VSCODE/Store/src/DomainCore/bin/Debug/netstandard2.0/DomainCore.dll
-/home/developer/Documents/VSCODE/Store/src/DomainCore/bin/Debug/netstandard2.0/DomainCore.pdb
-/home/developer/Documents/VSCODE/Store/src/DomainCore/obj/Debug/netstandard2.0/DomainCore.dll
-/home/developer/Documents/VSCODE/Store/src/DomainCore/obj/Debug/netstandard2.0/DomainCore.pdb

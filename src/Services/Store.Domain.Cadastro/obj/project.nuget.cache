@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8xfl3q0q5IoUQAkgB+nKtqYpUrEgz8FBNX2btQ+5P0IYm3Fc1XxoyBvntys2MuUCflBJaBMH+WXAg/FwUphKg==",
+  "success": true,
+  "projectFilePath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj",
+  "expectedPackageFiles": [
+    "/home/developer/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/developer/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

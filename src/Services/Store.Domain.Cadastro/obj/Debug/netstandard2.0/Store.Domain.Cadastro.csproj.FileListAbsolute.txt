@@ -1,0 +1,12 @@
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/bin/Debug/netstandard2.0/Store.Domain.Cadastro.deps.json
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/bin/Debug/netstandard2.0/Store.Domain.Cadastro.dll
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/bin/Debug/netstandard2.0/Store.Domain.Cadastro.pdb
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/bin/Debug/netstandard2.0/Store.Domain.Core.dll
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/bin/Debug/netstandard2.0/Store.Domain.Core.pdb
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/Debug/netstandard2.0/Store.Domain.Cadastro.csprojAssemblyReference.cache
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/Debug/netstandard2.0/Store.Domain.Cadastro.AssemblyInfoInputs.cache
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/Debug/netstandard2.0/Store.Domain.Cadastro.AssemblyInfo.cs
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/Debug/netstandard2.0/Store.Domain.Cadastro.csproj.CoreCompileInputs.cache
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/Debug/netstandard2.0/Store.Domain.Cadastro.csproj.CopyComplete
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/Debug/netstandard2.0/Store.Domain.Cadastro.dll
+/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/Debug/netstandard2.0/Store.Domain.Cadastro.pdb

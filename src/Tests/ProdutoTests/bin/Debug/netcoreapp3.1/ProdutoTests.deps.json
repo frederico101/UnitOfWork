@@ -8,9 +8,9 @@
     ".NETCoreApp,Version=v3.1": {
       "ProdutoTests/1.0.0": {
         "dependencies": {
-          "Cadastro": "1.0.0",
-          "DomainCore": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
+          "Store.Domain.Cadastro": "1.0.0",
+          "Store.Domain.Core": "1.0.0",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
@@ -690,17 +690,17 @@
           "Microsoft.NET.Test.Sdk": "16.5.0"
         }
       },
-      "Cadastro/1.0.0": {
+      "Store.Domain.Cadastro/1.0.0": {
         "dependencies": {
-          "DomainCore": "1.0.0"
+          "Store.Domain.Core": "1.0.0"
         },
         "runtime": {
-          "Cadastro.dll": {}
+          "Store.Domain.Cadastro.dll": {}
         }
       },
-      "DomainCore/1.0.0": {
+      "Store.Domain.Core/1.0.0": {
         "runtime": {
-          "DomainCore.dll": {}
+          "Store.Domain.Core.dll": {}
         }
       }
     }
@@ -1061,12 +1061,12 @@
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
-    "Cadastro/1.0.0": {
+    "Store.Domain.Cadastro/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "DomainCore/1.0.0": {
+    "Store.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

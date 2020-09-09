@@ -14,8 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Services\Cadastro\Cadastro.csproj" />
-    <ProjectReference Include="..\..\DomainCore\DomainCore.csproj" />
+    <ProjectReference Include="..\..\Services\Store.Domain.Cadastro\Store.Domain.Cadastro.csproj" />
+    <ProjectReference Include="..\..\Services\Store.Domain.Core\Store.Domain.Core.csproj" />
   </ItemGroup>
+
 
 </Project>

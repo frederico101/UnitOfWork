@@ -4,14 +4,14 @@
     "/home/developer/Documents/VSCODE/Store/src/Tests/ProdutoTests/ProdutoTests.csproj": {}
   },
   "projects": {
-    "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj": {
+    "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj",
-        "projectName": "DomainCore",
-        "projectPath": "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj",
+        "projectUniqueName": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj",
+        "projectName": "Store.Domain.Cadastro",
+        "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj",
         "packagesPath": "/home/developer/.nuget/packages/",
-        "outputPath": "/home/developer/Documents/VSCODE/Store/src/DomainCore/obj/",
+        "outputPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/developer/.nuget/NuGet/NuGet.Config"
@@ -24,7 +24,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj": {
+                "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,14 +61,14 @@
         }
       }
     },
-    "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/Cadastro.csproj": {
+    "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/Cadastro.csproj",
-        "projectName": "Cadastro",
-        "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/Cadastro.csproj",
+        "projectUniqueName": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj",
+        "projectName": "Store.Domain.Core",
+        "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj",
         "packagesPath": "/home/developer/.nuget/packages/",
-        "outputPath": "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/obj/",
+        "outputPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/developer/.nuget/NuGet/NuGet.Config"
@@ -77,11 +81,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {
-              "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj": {
-                "projectPath": "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -135,11 +135,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj": {
-                "projectPath": "/home/developer/Documents/VSCODE/Store/src/DomainCore/DomainCore.csproj"
+              "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj": {
+                "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Cadastro/Store.Domain.Cadastro.csproj"
               },
-              "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/Cadastro.csproj": {
-                "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Cadastro/Cadastro.csproj"
+              "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj": {
+                "projectPath": "/home/developer/Documents/VSCODE/Store/src/Services/Store.Domain.Core/Store.Domain.Core.csproj"
               }
             }
           }

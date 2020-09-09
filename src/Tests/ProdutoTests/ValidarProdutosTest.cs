@@ -1,4 +1,3 @@
-using System;
 using Cadastro.Domain;
 using DomainCore;
 using Xunit;
