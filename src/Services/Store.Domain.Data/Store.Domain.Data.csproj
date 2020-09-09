@@ -18,8 +18,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="Services\Store.Domain.Cadastro\Store.Domain.Cadastro.csproj" />
-    <ProjectReference Include="Store.Domain.Core\Store.Domain.Core.csproj" />
+    <ProjectReference Include="..\Store.Domain.Cadastro\Store.Domain.Cadastro.csproj" />
+    <ProjectReference Include="..\Store.Domain.Core\Store.Domain.Core.csproj" />
   </ItemGroup>
+
+
 
 </Project>

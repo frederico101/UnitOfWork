@@ -1,5 +1,4 @@
-﻿using System;
-using Cadastro.Domain;
+﻿using Cadastro.Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace Store.Domain.Data
